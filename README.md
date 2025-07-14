@@ -3,10 +3,6 @@
 <h3>Data Analyst from Moscow</h3>
 </div>
 
-<a href="linkedin-url">
-<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-
-badge&logo=telegram&logoColor=white" alt="g3r4n33"/>
-</a>
 
 <!--
 **EkaterinaFrolova9/EkaterinaFrolova9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
