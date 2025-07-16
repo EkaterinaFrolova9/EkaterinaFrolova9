@@ -55,7 +55,7 @@ Welcome to my GitHub profile! I'm a versatile professional with expertise in dat
 
 ## 📫 Let's Connect!
 - 📧 Email: [katulzik@mail.ru](mailto:katulzik@mail.ru)
-- 📱 Phone: +7 (937) 373-43-81
+- 📱 Telegram: @g3r4n33
 - 🌍 Location: Moscow, Russia
 
 ---
